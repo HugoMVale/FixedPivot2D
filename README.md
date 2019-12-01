@@ -1,6 +1,6 @@
 # Description
 
-This code is a FORTRAN 90 implementation of the *extended fixed pivot method* developed by [Vale & McKenna](https://doi.org/10.1021/ie050179s) to solve [population balance equations (PBE)](https://en.wikipedia.org/wiki/Population_balance_equation) for two-component aggregation processes (also known as bivariate aggregation).
+This code is a Fortran 90 implementation of the *extended fixed pivot method* developed by [Vale & McKenna](https://doi.org/10.1021/ie050179s) to solve [population balance equations (PBE)](https://en.wikipedia.org/wiki/Population_balance_equation) for two-component aggregation processes (also known as bivariate aggregation).
 
 The method is described in detail in [`Vale2005b.pdf`](/Vale2005b.pdf).
 
